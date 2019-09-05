@@ -1,0 +1,48 @@
+[{
+	"Batch": "Batch_0001",
+	"Material": "123456789000000001",
+	"Plant": "0001",
+	"StorageLocationName": "Central Storage",
+	"StorageLocation": "0001",
+	"CurrentStock": 273,
+	"QualityInspectionStockQuantity": 34,
+	"ReturnsBlockedStockQuantity": 32,
+	"TransferStockStorageLocQty": 43,
+	"BaseUnit": "EA",
+	"BlockedStockQuantity": 34,
+	"RestrictedStockQuantity": 31
+}, {
+	"Material": "123456789000000001",
+	"Plant": "0001",
+	"StorageLocation": "0001",
+	"StorageLocationName": "Central Storage",
+	"Batch": "Batch_0001",
+	"CurrentStock": 273,
+	"BlockedStockQuantity": 34,
+	"RestrictedStockQuantity": 21,
+	"QualityInspectionStockQuantity": 45,
+	"TransferStockStorageLocQty": 87,
+	"ReturnsBlockedStockQuantity": 7,
+	"BaseUnit": "EA"
+}, {
+	"Material": "123456789000000002",
+	"Plant": "0010",
+	"StorageLocation": "0010",
+	"StorageLocationName": "Central",
+	"Batch": "Batch_0010",
+	"CurrentStock": 253,
+	"QualityInspectionStockQuantity": 43,
+	"ReturnsBlockedStockQuantity": 5,
+	"TransferStockStorageLocQty": 89,
+	"BlockedStockQuantity": 37,
+	"RestrictedStockQuantity": 31,
+	"BaseUnit": "EA"
+}, {
+	"BlockedStockQuantity": 39,
+	"TransferStockStorageLocQty": 87,
+	"ReturnsBlockedStockQuantity": 7,
+	"QualityInspectionStockQuantity": 49,
+	"CurrentStock": 289,
+	"RestrictedStockQuantity": 21,
+	"BaseUnit": "EA"
+}]

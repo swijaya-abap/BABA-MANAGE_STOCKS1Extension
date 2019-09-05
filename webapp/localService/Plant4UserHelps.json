@@ -1,0 +1,16 @@
+[{
+	"Plant": "0001",
+	"PlantName": "Walldorf"
+}, {
+	"Plant": "0010",
+	"PlantName": "Hamburg"
+}, {
+	"Plant": "1001",
+	"PlantName": "Ratingen"
+}, {
+	"Plant": "1010",
+	"PlantName": "Central"
+}, {
+	"Plant": "2000",
+	"PlantName": "Best Plant"
+}]

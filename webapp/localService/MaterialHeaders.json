@@ -1,0 +1,33 @@
+[{
+	"Material": "123456789000000001",
+	"MaterialName": "Batch on Plant",
+	"MaterialType": "FERT",
+	"MaterialTypeName": "Finished Product",
+	"BaseUnit": "EA",
+	"BaseUnitName": "Each",
+	"DefinitionOfBatchLevel": "0"
+}, {
+	"Material": "123456789000000002",
+	"MaterialName": "Batch on Plant",
+	"MaterialType": "FERT",
+	"MaterialTypeName": "Finished Product",
+	"BaseUnit": "EA",
+	"BaseUnitName": "Each",
+	"DefinitionOfBatchLevel": "0"
+}, {
+	"Material": "123456789000000003",
+	"MaterialName": "Batch on Plant",
+	"MaterialType": "FERT",
+	"MaterialTypeName": "Finished Product",
+	"BaseUnit": "EA",
+	"BaseUnitName": "Each",
+	"DefinitionOfBatchLevel": "0"
+}, {
+	"Material": "123456789000000004",
+	"MaterialName": "Batch on Plant",
+	"MaterialType": "FERT",
+	"MaterialTypeName": "Finished Product",
+	"BaseUnit": "EA",
+	"BaseUnitName": "Each",
+	"DefinitionOfBatchLevel": "0"
+}]

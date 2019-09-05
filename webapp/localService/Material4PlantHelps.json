@@ -1,0 +1,21 @@
+[{
+	"Plant": "0001",
+	"Material": "123456789000000001",
+	"MaterialName": "Batch on Plant",
+	"Batch": "Batch_0001"
+}, {
+	"Plant": "0010",
+	"Material": "123456789000000002",
+	"MaterialName": "Batch on Plant",
+	"Batch": "Batch_0010"
+}, {
+	"Plant": "1001",
+	"Material": "123456789000000003",
+	"MaterialName": "Batch on Plant",
+	"Batch": "Batch_1001"
+}, {
+	"Plant": "1010",
+	"Material": "123456789000000004",
+	"MaterialName": "Batch on Plant",
+	"Batch": "Batch_1010"
+}]

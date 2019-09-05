@@ -1,0 +1,84 @@
+{
+	"_version": "1.1.0",
+	"sap.app": {
+		"_version": "1.1.0",
+		"id": "ui.s2p.mm.manage.stock.MANAGE_STOCKS1Extension",
+		"type": "application",
+		"applicationVersion": {
+			"version": "1.0.0"
+		},
+		"title": "{{FULLSCREEN_TITLE}}"
+	},
+	"sap.ui": {
+		"_version": "1.1.0",
+		"technology": "UI5",
+		"icons": {
+			"icon": "sap-icon://task",
+			"favIcon": ""
+		},
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		},
+		"supportedThemes": [
+			"sap_hcb",
+			"sap_bluecrystal"
+		]
+	},
+	"sap.ui5": {
+		"_version": "1.1.0",
+		"dependencies": {
+			"minUI5Version": "1.48.4"
+		},
+		"extends": {
+			"component": "ui.s2p.mm.manage.stock",
+			"extensions": {
+				"sap.ui.viewModifications": {
+					"ui.s2p.mm.manage.stock.view.S1": {
+						"idROClabel": {
+							"visible": false
+						},
+						"idROC": {
+							"visible": false
+						},
+						"idTransferStockStorageLocQtyFooter": {
+							"visible": false
+						},
+						"idRestrictedStockQuantityFooter": {
+							"visible": false
+						},
+						"idReturnsBlockedStockQuantityFooter": {
+							"visible": false
+						},
+						"idQualityInspectionStockQuantityFooter": {
+							"visible": false
+						},
+						"idBlockedStockFooter": {
+							"visible": false
+						},
+						"idCurrentStockFooter": {
+							"visible": false
+						},
+						"idTableSearch": {
+							"visible": false
+						}
+					}
+				},
+				"sap.ui.controllerExtensions": {
+					"ui.s2p.mm.manage.stock.controller.S1": {
+						"controllerName": "ui.s2p.mm.manage.stock.MANAGE_STOCKS1Extension.controller.S1Custom"
+					}
+				}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		}
+	},
+	"sap.platform.abap": {
+		"uri": "/sap/bc/ui5_ui5/sap/zmanage_stocks1/webapp",
+		"_version": "1.1.0"
+	}
+}
